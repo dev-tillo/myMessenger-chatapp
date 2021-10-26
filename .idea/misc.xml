@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/add.xml" value="0.20462962962962963" />
+        <entry key="app/src/main/res/drawable/alert_dialog.xml" value="0.20185185185185187" />
+        <entry key="app/src/main/res/drawable/bacgr.xml" value="0.20615384615384616" />
+        <entry key="app/src/main/res/drawable/bacground.xml" value="0.17962962962962964" />
+        <entry key="app/src/main/res/drawable/bacground1.xml" value="0.17037037037037037" />
+        <entry key="app/src/main/res/drawable/chat_message.xml" value="0.17314814814814813" />
+        <entry key="app/src/main/res/drawable/circle.xml" value="0.16944444444444445" />
+        <entry key="app/src/main/res/drawable/delete_message.xml" value="0.10520833333333333" />
+        <entry key="app/src/main/res/drawable/emoji.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/item.xml" value="0.15555555555555556" />
+        <entry key="app/src/main/res/drawable/item_category1.xml" value="0.15555555555555556" />
+        <entry key="app/src/main/res/drawable/link.xml" value="0.209375" />
+        <entry key="app/src/main/res/drawable/no_online.xml" value="0.20462962962962963" />
+        <entry key="app/src/main/res/layout-v28/fragment_selected_user.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/add_group.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/delete_messge.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_chat_group.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_group_list.xml" value="0.2138442521631644" />
+        <entry key="app/src/main/res/layout/fragment_list.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/fragment_selected_user.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/fragment_sign_in.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_splash.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fragment_view_pager.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/fromitem.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/gallery_item.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_category.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_from.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/item_group.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/item_listusers.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/item_to.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/rv_item.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/layout/tab_item.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/toitem.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/menu/menu_item.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/menu/menu_list.xml" value="0.33" />
+        <entry key="app/src/main/res/menu/menu_to.xml" value="0.19322916666666667" />
+        <entry key="app/src/main/res/menu/menu_to1.xml" value="0.1" />
+        <entry key="app/src/main/res/menu/menu_user.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
